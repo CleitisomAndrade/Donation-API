@@ -22,7 +22,7 @@ Dowload do Intellij: https://www.jetbrains.com/idea/download/?section=windows
 
 
 ### Etapas:
-1. Ao instalar o PostgreSQL, guarde a senha que você utilizar.
+1. Ao instalar o PostgreSQL, guarde a senha que você utilizou na instalação.
 2. Baixe o arquivo da API no GitHub como um arquivo zip, e depois extraia-o.
 3. Na IDE de sua escolha, crie um novo projeto, selecione "Abrir Pasta" e vá até o diretório onde o arquivo do GitHub foi baixado, então selecione a pasta.
 4. Na IDE, abra o arquivo src/main/resources/application.properties e na linha 5, substitua spring.datasource.password=COLOQUE A SENHA DO POSTGRESQL pela senha que você definiu.
